@@ -52,8 +52,8 @@ ol{
     font-family: Halvetica, sans-serif;
     text-decoration: none;
     background-color: aquamarine;
+    padding: 5px;
 }
-
 
 #menu-bar a:hover{
     background-color: aqua;
